@@ -1,0 +1,20 @@
+.parentContainer{
+    height: 1000px;
+    width: 100%;
+    background-color: aqua;
+}
+
+.childContainer{
+    height: 250px;
+    width: 250px;
+    background-color: blanchedalmond;
+    margin: 20px;
+}
+.subContainer{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-around;
+}
+.childItems{
+    background-color: cornflowerblue;
+}
